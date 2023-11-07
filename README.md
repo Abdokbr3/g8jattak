@@ -1,15 +1,13 @@
 # g8jas attak
 
-
-           ____        _                
-         .' __ '.     (_)               
-
-                                   
+   
 tools in 1 
 g8jattak (g8jas attak)
 instagram @g8jas
 
 # download
+
+
 /1\ git clone https://github.com/Abdokbr3/g8jattak.git && cd g8jattak
 
 
@@ -17,3 +15,6 @@ instagram @g8jas
 
 
 /3\ python3 g8jas.py
+
+                                
+
